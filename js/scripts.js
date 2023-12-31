@@ -1,7 +1,5 @@
 /*!
-  Title: Personal Resume
-    Last Change: 12/29/2023
-    Author: Jin Carballosa
+    Title: Personal Resume
     Description: Single-page
     portfolio website.
 */
